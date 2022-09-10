@@ -1,6 +1,6 @@
 import React from "react";
 import './testimonials.css'
 
-export const About = () => {
+export const Testimonials = () => {
     return (<></>)
 }
