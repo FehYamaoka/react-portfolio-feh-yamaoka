@@ -2,5 +2,5 @@ import React from "react";
 import './about.css'
 
 export const About = () => {
-    return (<></>)
+    return (<div>About</div>)
 }

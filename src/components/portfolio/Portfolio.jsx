@@ -1,6 +1,6 @@
 import React from "react"
-import '/portfolio.css'
+import './portfolio.css'
 
 export const Portfolio = () => {
-  return <></>
+  return <div>Portfolio</div>
 }
