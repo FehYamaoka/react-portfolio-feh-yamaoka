@@ -31,7 +31,6 @@ module.exports = {
       {
         newlinesBetween: 'always',
         groups: [
-          '/^@shared/',
           '/^react/',
           'module',
           ['parent', 'sibling', 'index'],

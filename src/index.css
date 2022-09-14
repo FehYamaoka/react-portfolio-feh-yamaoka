@@ -11,12 +11,12 @@
 }
 
 :root {
-  --color-bg: #1F1F38;
-  --color-bg-variant: #2C2C6C;
-  --color-primary: #4DB5FF;
-  --color-primary-variant: rgba(77, 181, 255, 0.4);
+  --color-bg: #1f3832; /* 1f3827 */
+  --color-bg-variant: #2c6c3c;
+  --color-primary: #4dffb5;
+  --color-primary-variant: rgba(77, 255, 107, 0.4);
   --color-white: #FFF;
-  --color-light: rgba(255, 255, 255, 0.6);
+  --color-light: rgba(255, 255, 255, 0.733);
 
   --transition: all 400ms ease;
 
@@ -38,7 +38,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src//assets//bg-texture.png);
+  background-image: url(../src//assets//padrao.png);
 }
 
 /* ================ GENERAL STYLES ================ */
@@ -57,6 +57,7 @@ h1 {
 
 section {
   margin-top: 8rem;
+  height:  100vh;
 }
 
 section > h2, section > h5 {
