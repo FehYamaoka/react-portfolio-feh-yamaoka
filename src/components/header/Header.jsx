@@ -1,7 +1,7 @@
 import React from "react";
 import "./header.css";
 import { CTA } from './CTA';
-import ME from '../../assets/avatar-homem.png';
+import SimpleMan from '../../assets/avatar-homem.png';
 import { HeaderSocials } from "./HeaderSocials";
 
 export const Header = () => {
@@ -15,7 +15,7 @@ export const Header = () => {
         <HeaderSocials />
 
         <div className="me">
-          <img src={ME} alt="" />
+          <img src={SimpleMan} alt="" />
         </div>
 
         <a href="#contact" className="scroll__down">Role para baixo</a>
