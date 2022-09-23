@@ -25,6 +25,10 @@
   --container-width-sm: 90%;
 }
 
+.swiper-pagination-bullet-active {
+  background-color: #4dffb5 !important;
+}
+
 html {
   scroll-behavior: smooth;
 }
