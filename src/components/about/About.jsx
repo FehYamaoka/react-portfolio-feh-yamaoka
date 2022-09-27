@@ -28,19 +28,19 @@ export const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experiência</h5>
-              <small>3+ anos na área de desenvolvimento</small>
+              <small>2+ anos na área de desenvolvimento</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clientes</h5>
-              <small>37+ clientes pelo mundo</small>
+              <small>20+ clientes</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projetos</h5>
-              <small>60+ projetos completos</small>
+              <small>20+ projetos completos</small>
             </article>
           </div>
 

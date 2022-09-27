@@ -15,51 +15,6 @@ export const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>NodeJS</h4>
-                <small className='text-light'>Experiência - 1 ano</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>SQL</h4>
-                <small className='text-light'>Experiência - 1 ano</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>PostgreSQL</h4>
-                <small className='text-light'>Experiência - 3 anos</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>MongoDB</h4>
-                <small className='text-light'>Experiência - 6 meses</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>Docker</h4>
-                <small className='text-light'>Experiência - 6 meses</small>
-              </div>
-            </article>
-          </div>
-        </div>
-
-        <div className='experience__backend'>
-          <h3>Back-end</h3>
-          <div className='experience__content'>
-            <article className='experience__details'>
-              <BsPatchCheckFill className="experience__details-icon"/>
-              <div>
                 <h4>HTML</h4>
                 <small className='text-light'>Experiência - 3 anos</small>
               </div>
@@ -102,6 +57,51 @@ export const Experience = () => {
               <div>
                 <h4>React Native</h4>
                 <small className='text-light'>Experiência - 1 ano</small>{' '}
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div className='experience__backend'>
+          <h3>Back-end</h3>
+          <div className='experience__content'>
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>NodeJS</h4>
+                <small className='text-light'>Experiência - 1 ano</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>SQL</h4>
+                <small className='text-light'>Experiência - 1 ano</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>PostgreSQL</h4>
+                <small className='text-light'>Experiência - 1 ano</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>MongoDB</h4>
+                <small className='text-light'>Experiência - 6 meses</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>Docker</h4>
+                <small className='text-light'>Experiência - 6 meses</small>
               </div>
             </article>
           </div>

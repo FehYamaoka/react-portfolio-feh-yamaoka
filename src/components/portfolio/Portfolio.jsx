@@ -26,7 +26,12 @@ export const Portfolio = () => {
                 <img src={image} alt={title} />
                 <h3>Projeto em desenvolvimento</h3>
                 <div className='portfolio__item-cta'>
-                  <a href={github} className='btn'>
+                  <a
+                    href={github}
+                    target='_blank'
+                    rel='noopener noreferrer'
+                    className='btn'
+                  >
                     Github
                   </a>
                   <a
