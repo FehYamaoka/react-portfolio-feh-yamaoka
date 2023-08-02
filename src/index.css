@@ -41,7 +41,7 @@ body {
   font-family: 'Poppins', sans-serif;
   background: var(--color-bg);
   color: var(--color-white);
-  line-height: 1.7;
+  line-height: 3.0;
   background-image: url(../src//assets//padrao.png);
 }
 

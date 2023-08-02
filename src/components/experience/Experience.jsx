@@ -31,14 +31,6 @@ export const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>Bootstrap</h4>
-                <small className='text-light'>Experiência - 2 anos</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsPatchCheckFill className="experience__details-icon"/>
-              <div>
                 <h4>JavaScript</h4>
                 <small className='text-light'>Experiência - 3 anos</small>
               </div>
@@ -47,8 +39,32 @@ export const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
+                <h4>TypeScript</h4>
+                <small className='text-light'>Experiência - 2 anos</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>Styled Components</h4>
+                <small className='text-light'>Experiência - 2 anos</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>Material UI</h4>
+                <small className='text-light'>Experiência - 2 anos</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
                 <h4>React</h4>
-                <small className='text-light'>Experiência - 1 ano</small>
+                <small className='text-light'>Experiência - 2 anos</small>
               </div>
             </article>
 
@@ -69,7 +85,7 @@ export const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
                 <h4>NodeJS</h4>
-                <small className='text-light'>Experiência - 1 ano</small>
+                <small className='text-light'>Experiência - 2 anos</small>
               </div>
             </article>
 
@@ -77,7 +93,7 @@ export const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
                 <h4>SQL</h4>
-                <small className='text-light'>Experiência - 1 ano</small>
+                <small className='text-light'>Experiência - 2 anos</small>
               </div>
             </article>
 
@@ -85,15 +101,23 @@ export const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
                 <h4>PostgreSQL</h4>
-                <small className='text-light'>Experiência - 1 ano</small>
+                <small className='text-light'>Experiência - 2 anos</small>
               </div>
             </article>
 
             <article className='experience__details'>
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>MongoDB</h4>
-                <small className='text-light'>Experiência - 6 meses</small>
+                <h4>ORM</h4>
+                <small className='text-light'>Experiência - 2 anos</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>API</h4>
+                <small className='text-light'>Experiência - 2 anos</small>
               </div>
             </article>
 
@@ -101,6 +125,22 @@ export const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
                 <h4>Docker</h4>
+                <small className='text-light'>Experiência - 1 ano</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>Kubernetes</h4>
+                <small className='text-light'>Experiência - 6 meses</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>MongoDB</h4>
                 <small className='text-light'>Experiência - 6 meses</small>
               </div>
             </article>

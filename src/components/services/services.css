@@ -32,7 +32,9 @@
 }
 
 .service__list {
-  padding: 2rem;
+  display: grid; /* Use CSS grid for the list items */
+  grid-template-rows: repeat(8, 1fr); /* Adjust the number based on your maximum number of list items */
+  padding: 1rem;
 }
 
 .service__list li {
@@ -47,7 +49,7 @@
 }
 
 .service__list p {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 

@@ -45,13 +45,16 @@ export const About = () => {
           </div>
 
           <p>
-            Desenvolvedor de Software, com experiência de atuação em grandes projetos de empresas
+            Desenvolvedor de Software, com experiência em grandes projetos de empresas
             multinacionais. Iniciando no desenvolvimento em 2020, me reconheço como entusiasta em
-            novas tecnologias do mercado, com aprendizado adquirido dia após dia. Possuo foco em
-            desenvolvimento com Javascript, TypeScript, ReactJS, React Native, NodeJS dentre outras
-            tecnologias que uso para criar aplicações Web/Mobile de alto nível e valor. Me considero
-            ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças,
-            pronto para superar qualquer desafio.
+            novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+          </p>
+
+          <p>
+            Possuo foco em desenvolvimento com Javascript, TypeScript, ReactJS, React Native, NodeJS
+            dentre outras tecnologias que uso para criar aplicações Web/Mobile de alto nível e
+            valor. Me considero ágil e consistente em aprender uma nova tecnologia e alta
+            adaptabilidade às mudanças, pronto para superar qualquer desafio.
           </p>
 
           <a href='#contact' className='btn btn-primary'>
